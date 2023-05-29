@@ -6,6 +6,12 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=taoef1k&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
+<h3 align='center'>Badges</h3>
+<p align='center'>
+<img class="share-ui__badge-image" src="https://images.credly.com/size/220x220/images/9956323d-90eb-4a7a-9fc6-4750ce433d3a/Oracle-Certification-badge_OC-Associate600X600.png" alt="Oracle Certified Associate, Java SE 7 Programmer" width="110" height="110">
+<img class="cr-badges-full-badge__img" src="https://images.credly.com/size/220x220/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" alt="AWS Academy Graduate - AWS Academy Cloud Architecting badge image. Learning. Issued by Amazon Web Services Training and Certification" width="110" height="110">
+</p>
+
 <!--
 **taoef1k/taoef1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
