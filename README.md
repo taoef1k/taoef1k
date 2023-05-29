@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I'm taoef1k 👨‍💻
+</h1>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=taoef1k&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 <!--
 **taoef1k/taoef1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
