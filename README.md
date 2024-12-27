@@ -10,6 +10,8 @@
 <p align='center'>
 <a href="https://www.credly.com/badges/0ef33c38-98a5-44e4-9681-0ab665d3a6bb/public_url" target="_blank"><img class="share-ui__badge-image" src="https://images.credly.com/size/220x220/images/9956323d-90eb-4a7a-9fc6-4750ce433d3a/Oracle-Certification-badge_OC-Associate600X600.png" alt="Oracle Certified Associate, Java SE 7 Programmer" width="110" height="110"></a>
 <a href="https://www.credly.com/badges/14f06484-a751-4fa2-b333-5813cddae76b/public_url" target="_blank"><img class="cr-badges-full-badge__img" src="https://images.credly.com/size/220x220/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" alt="AWS Academy Graduate - AWS Academy Cloud Architecting badge image. Learning. Issued by Amazon Web Services Training and Certification" width="110" height="110"></a>
+<a href="https://www.credly.com/badges/0ef33c38-98a5-44e4-9681-0ab665d3a6bb/public_url" target="_blank"><img class="share-ui__badge-image" src="https://images.credly.com/size/110x110/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate" width="110" height="110"></a>
+<a href="https://www.credly.com/badges/618d3dec-9f59-4f3f-b79c-95b65980a85c/public_url" target="_blank"><img class="share-ui__badge-image" src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="110" height="110"></a>
 </p>
 
 <!--
